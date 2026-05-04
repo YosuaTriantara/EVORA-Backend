@@ -1,0 +1,14 @@
+.env
+.migrations/
+migrations/
+/docs
+*.log
+*.sqlite
+__pycache__/
+*.pyc
+*__pycache__/
+*.pyo
+alembic.ini
+*.egg-info/
+dist/
+build/
